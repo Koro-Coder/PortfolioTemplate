@@ -89,16 +89,22 @@ export const info = {
   ],
   portfolio: [
     {
-      title: "Project 1",
-      live: "https://paytonpierce.dev",
-      source: "https://github.com/paytonjewell",
+      title: "MERN E-Shop",
+      live: "https://mern-e-store.onrender.com/",
+      source: "https://github.com/Koro-Coder/MERN-E-Shop",
       image: mock1,
     },
     {
-      title: "Project 2",
-      live: "https://paytonpierce.dev",
-      source: "https://github.com/paytonjewell",
+      title: "Huffman Encoder Decoder",
+      live: "https://64b5704632002325590f1829--jovial-khapse-d28fe5.netlify.app/",
+      source: "https://github.com/Koro-Coder/HuffmanEncoderDecoder",
       image: mock2,
+    },
+    {
+      title: "Portfolio Template",
+      live: "https://64b569c129134e26bf25a76d--tangerine-alpaca-0e05cd.netlify.app/",
+      source: "https://github.com/Koro-Coder/ReactPortfolioTemplateAK",
+      image: mock3,
     },
   ],
 };
